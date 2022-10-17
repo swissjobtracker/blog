@@ -1,0 +1,9 @@
+---
+title: "Initial Post"
+author: "Matthias Bannert, Jeremias Klaeui, Daniel Kopp, Michael Siegenthaler, Severin Thöni"
+date: "2022-08-18"
+categories: ['project news']
+image: "map.png"
+---
+
+Sayin this and that cause this and that was missin. 
