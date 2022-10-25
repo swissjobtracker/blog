@@ -1,15 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://swissjobtracker.github.io/blog/posts/post-with-code/index.html</loc>
-    <lastmod>2022-10-17T08:42:39.586Z</lastmod>
-  </url>
-  <url>
     <loc>https://swissjobtracker.github.io/blog/index.html</loc>
-    <lastmod>2022-10-17T08:42:40.103Z</lastmod>
+    <lastmod>2022-10-25T08:18:57.443Z</lastmod>
   </url>
   <url>
-    <loc>https://swissjobtracker.github.io/blog/about.html</loc>
-    <lastmod>2022-10-17T08:42:40.564Z</lastmod>
+    <loc>https://swissjobtracker.github.io/blog/posts/announcements/release/release.html</loc>
+    <lastmod>2022-10-25T08:18:59.077Z</lastmod>
   </url>
 </urlset>
