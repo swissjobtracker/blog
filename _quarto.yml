@@ -2,13 +2,14 @@ project:
   type: website
 
 website:
-  title: "Blog"
+  title: "Swiss Job Tracker"
+  site-url: https://swissjobtracker.ch
   navbar:
+    left:
+      - text: "Blog"
     right:
       - icon: github
         href: https://github.com/swissjobtracker
-      - icon: globe
-        href: https://swissjobtracker.github.io
 format:
   html:
     theme: cosmo
