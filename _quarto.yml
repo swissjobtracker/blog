@@ -2,6 +2,7 @@ project:
   type: website
 
 website:
+  favicon: favicon.ico
   title: "Swiss Job Tracker"
   site-url: https://swissjobtracker.ch
   navbar:
