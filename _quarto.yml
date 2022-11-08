@@ -3,10 +3,10 @@ project:
 
 website:
   favicon: favicon.ico
-  title: "Swiss Job Tracker"
-  site-url: https://swissjobtracker.ch
   navbar:
     left:
+      - text: "Swiss Job Tracker"
+        href: https://swissjobtracker.ch
       - text: "Blog"
         href: /
     right:
