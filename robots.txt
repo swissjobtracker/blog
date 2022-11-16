@@ -1,1 +1,1 @@
-Sitemap: https://swissjobtracker.ch/sitemap.xml
+Sitemap: https://swissjobtracker.github.io/blog/sitemap.xml
