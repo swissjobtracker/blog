@@ -15,6 +15,8 @@ To update the blog:
 2. make sure quarto cli is installed (once)
 
 - for every new post, generate a new folder in the posts/announcement folder and generate there a new qmd file 
+- put figures you want to use in the same folder
+- Write text in a qmd file. Define the necessary commands between --- for the header. Write text below
 - if the qmd file is rendered we see a preview of the webpage but only if the scripts runs on a locally installed RStudio
 
 3. make edits 
