@@ -1,8 +1,8 @@
 ---
 title: "Swiss Job Tracker 1.0 released"
 author: "Matthias Bannert, Jeremias Klaeui, Daniel Kopp, Michael Siegenthaler, Severin Thöni"
-date: "2022-08-18"
-categories: 
+date: "2022-11-22"
+categories:
   - 'Project News'
 image: "map.png"
 description: Today, we launch swissjobtracker.ch. The dashboard provides and visualizes new weekly indices that measure how the near-universe of unique online job postings develop in Switzerland. The job indices can be broken down by industry, broad occupation, and canton.
