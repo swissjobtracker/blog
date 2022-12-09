@@ -1,11 +1,11 @@
 ---
 title: "Signs that the Swiss job market has passed its peak"
-author: "Daniel Kopp, Michael Siegenthaler, Severin Thöni"
+author: "Michael Siegenthaler"
 date: "2022-12-12"
 categories:
   - 'Job market monitoring'
 image: "swissjobtracker_figure.png"
-description: The new weekly job market indices published on www.swissjobtracker.ch suggest that the big boom that has characterized the Swiss job market in 2022 may have passed its peak. The new job indices, which will be updated every Friday from now on, show that the total number of jobs advertised online in Switzerland was around 7% lower in mid-December than in mid-October. However, firms still have a large number of unfilled positions in a historical perspective.
+description: The new weekly job market indices published on www.swissjobtracker.ch suggest that the Swiss job market may have passed its peak. The indices, which are updated every Friday, show that the total number of jobs advertised online in Switzerland was around 7% lower in mid-December than in mid-October. However, firms still have a large number of unfilled positions in a historical perspective.
 ---
 
 Swiss Job Tracker is a new job market index for Switzerland that is updated weekly. It tracks the development of all job postings advertised on company websites and job portals in Switzerland. On Friday of the second week of December, the weekly job market index for the overall economy stood at 157 index points. This index value means that 57% more jobs were advertised on November 11 than in January 2020. January 2020, shortly before the outbreak of the Corona pandemic, serves as the reference point for the index.
