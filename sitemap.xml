@@ -2,14 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://swissjobtracker.github.io/blog/index.html</loc>
-    <lastmod>2022-12-13T08:47:12.584Z</lastmod>
+    <lastmod>2023-07-20T09:39:50.521Z</lastmod>
+  </url>
+  <url>
+    <loc>https://swissjobtracker.github.io/blog/posts/announcements/0723_blogpost/release11.html</loc>
+    <lastmod>2023-07-20T09:39:50.945Z</lastmod>
   </url>
   <url>
     <loc>https://swissjobtracker.github.io/blog/posts/announcements/1122_blogpost/peak.html</loc>
-    <lastmod>2022-12-13T08:47:14.181Z</lastmod>
+    <lastmod>2023-07-20T09:39:51.360Z</lastmod>
   </url>
   <url>
     <loc>https://swissjobtracker.github.io/blog/posts/announcements/release/release.html</loc>
-    <lastmod>2022-12-13T08:47:15.715Z</lastmod>
+    <lastmod>2023-07-20T09:39:51.797Z</lastmod>
   </url>
 </urlset>
