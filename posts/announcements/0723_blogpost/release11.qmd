@@ -1,6 +1,6 @@
 ---
 title: "Release of Swiss Job Tracker v1.1"
-author: "Michael Siegenthaler"
+author: "Stephane Bisinger, Jeremias Kläui, Daniel Kopp, Michael Siegenthaler"
 date: "2023-07-19"
 categories:
   - 'Methodology'
