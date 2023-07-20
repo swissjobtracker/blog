@@ -1,0 +1,19 @@
+---
+title: "Release of Swiss Job Tracker v1.1"
+author: "Michael Siegenthaler"
+date: "2023-07-19"
+categories:
+  - 'Methodology'
+image: "swissjobtracker_figure.png"
+description: Today, we announce the release of an updated version of Swiss Job Tracker. Swiss Job Tracker is a job market index for Switzerland that is updated weekly. It tracks the development of all job postings advertised on company websites and job portals in Switzerland.
+---
+
+Today's update of the job indices published on swissjobtracker.ch fixes an unfavorable feature of the job indexes we have published to date. An evaluation of the indicator revealed that the series exhibit a systematic downward bias for the most recently published values - the latest index values thus signaled a systematically worse  development on the job market than was actually the case.
+
+The reason for this was a property of the real-time data: some of the job advertisements that were considered deleted in the latest week were found again by the webcrawler in subsequent weeks. These job ads were reactivated. While the reactivations primarily concerned advertisements from the previous week, reactivations affected up to 5% of all vacancies from a previous week. The upward revisions also concerned values published 2-5 weeks ago, but the share of affected vacancies became smaller and smaller. The consequence of the reactivations were systematic upward revisions of the job index values in the weeks after the first publication of an index value.
+
+Our solution to this  problem is to simply prevent reactivations in the future by storing vintages of the vacancy data: The vacancy stock used to compute the index in a given week consist of the job advertisements that were active on the Friday of that week. The data remain "frozen" in subsequent weeks when a new value is computed. Therefore, a vacancy that has been deleted in a given week is also considered as deleted in the following weeks even it is found again by the crawler. An additional benefit of this approach is that the index values once published remain identical for the same week in subsequent weekly releases.
+
+![Swiss job tracker: Index of Job Postings on Friday 14, 2023](swissjobtracker_export.png)
+
+The revised job indices continue to point to a very good labor market situation in Switzerland. Websites and job portals contain about 56% more vacancies than in January 2020, which serves as the reference value of the series.
