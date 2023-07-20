@@ -4,7 +4,7 @@ author: "Michael Siegenthaler"
 date: "2023-07-19"
 categories:
   - 'Methodology'
-image: "swissjobtracker_figure.png"
+image: "swissjobtracker_export.png"
 description: Today, we announce the release of an updated version of Swiss Job Tracker. Swiss Job Tracker is a job market index for Switzerland that is updated weekly. It tracks the development of all job postings advertised on company websites and job portals in Switzerland.
 ---
 
